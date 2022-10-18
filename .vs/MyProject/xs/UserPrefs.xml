@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{D8F6B072-35B2-4384-AA02-7D0443E0A79D}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Oops/Shopping.cs">
+    <Files>
+      <File FileName="MyProject.csproj" Line="6" Column="49" />
+      <File FileName="Oops/Shopping.cs" Line="2" Column="11" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MyProject" expanded="True">
+            <Node name="MyProject" expanded="True">
+              <Node name="BasicProgram" expanded="True" />
+              <Node name="Loop" expanded="True" />
+              <Node name="Oops" expanded="True">
+                <Node name="Shopping.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.MyProject PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

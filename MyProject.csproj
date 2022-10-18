@@ -1,0 +1,22 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <StartupObject>MyProject.Oops.Shopping</StartupObject>
+
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="BasicProgram\" />
+    <None Remove="Loop\" />
+    <None Remove="Test\" />
+    <None Remove="Oops\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="BasicProgram\" />
+    <Folder Include="Loop\" />
+    <Folder Include="Test\" />
+    <Folder Include="Oops\" />
+  </ItemGroup>
+</Project>
